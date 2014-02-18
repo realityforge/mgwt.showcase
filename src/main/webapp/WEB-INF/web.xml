@@ -12,7 +12,7 @@
 
   <servlet-mapping>
     <servlet-name>ManifestServlet</servlet-name>
-    <url-pattern>/showcase.manifest</url-pattern>
+    <url-pattern>/showcase.appcache</url-pattern>
   </servlet-mapping>
 
   <!-- Default page to serve -->
