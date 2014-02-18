@@ -7,7 +7,7 @@
 
   <servlet>
    <servlet-name>ManifestServlet</servlet-name>
-   <servlet-class>com.googlecode.mgwt.linker.server.MGWTHtml5ManifestServlet</servlet-class>
+   <servlet-class>org.realityforge.gwt.appcache.server.mgwt.MgwtManifestServlet</servlet-class>
  </servlet>
 
   <servlet-mapping>
